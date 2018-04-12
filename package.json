@@ -1,0 +1,28 @@
+{
+  "name": "es-webpack-notifier",
+  "version": "1.6.0",
+  "description": "webpack + node-notifier = build status system notifications, Add support for Multi-compiler mode",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "logo.png"
+  ],
+  "scripts": {
+    "test": "eslint index.js"
+  },
+  "keywords": [
+    "webpack",
+    "notify",
+    "notification",
+    "node-notifier",
+    "notifier",
+    "build"
+  ],
+  "dependencies": {
+    "node-notifier": "^4.1.0",
+    "object-assign": "^4.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.3.1"
+  }
+}
