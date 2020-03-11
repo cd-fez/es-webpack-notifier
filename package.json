@@ -1,6 +1,6 @@
 {
   "name": "es-webpack-notifier",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "webpack + node-notifier = build status system notifications, Add support for Multi-compiler mode",
   "main": "index.js",
   "files": [
